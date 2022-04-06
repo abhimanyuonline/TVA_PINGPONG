@@ -12,9 +12,14 @@ There is a paddle that can be moved vertically using touch(drag) or arrow keys(U
 Run The Game:
 
 Unity: Simply unpack the .zip and run the executable in Unity.
+
 Windows : Go to APK file there is TVA.exe for windows .
+
 Android: Go to APK file there is TVA.apk for windows .
 
+
 Difficulty: Beginner
+
 Topics: Physics
+
 Version: Unity 2020.3 LTS
